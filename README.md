@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mahesh Kothawade</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"
-- 🌱 I’m currently learning **ExpressJs**
+
+  - 🌱 I’m currently learning **ExpressJs**
+
 - 👨‍💻 All of my projects are available at [https://github.com/maheshkothavade?tab=repositories](https://github.com/maheshkothavade?tab=repositories)
+
 - 📝 I regularly write articles on [https://medium.com/@maheshkothawade47](https://medium.com/@maheshkothawade47)
+
 - 💬 Ask me about **React , Backend technologies**
+
 - 📫 How to reach me **maheshkothavade123@gmail.com**
+
 - ⚡ Fun fact **I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahesh-kothavade-245589229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-kothavade-245589229" height="30" width="40" /></a>
