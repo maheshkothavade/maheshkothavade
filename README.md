@@ -3,11 +3,17 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
   
 - I'm currently working on Backend **projects**
+
 - 🌱 I’m currently learning **ExpressJs**
+
 - 👨‍💻 All of my projects are available at [https://github.com/maheshkothavade?tab=repositories](https://github.com/maheshkothavade?tab=repositories)
+
 - 📝 I regularly write articles on [https://medium.com/@maheshkothawade47](https://medium.com/@maheshkothawade47)
+
 - 💬 Ask me about **React , Backend technologies**
+
 - 📫 How to reach me **maheshkothavade123@gmail.com**
+
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
