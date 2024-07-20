@@ -4,7 +4,7 @@
 
 - I'm currently working on Backend **projects**
 
-- 🌱 I’m currently learning **ExpressJs**
+- 🌱 I’m currently learning **to create RESTFul APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maheshkothavade?tab=repositories](https://github.com/maheshkothavade?tab=repositories)
 
