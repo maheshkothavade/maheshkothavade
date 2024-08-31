@@ -4,7 +4,7 @@
 
 - I'm currently working on MERN Stack **projects**
 
-- 🌱 I’m currently learning ** to create MERN projects **
+- 🌱 I’m currently learning to NextJS 
 
 - 👨‍💻 All of my projects are available at [https://github.com/maheshkothavade?tab=repositories](https://github.com/maheshkothavade?tab=repositories)
 
